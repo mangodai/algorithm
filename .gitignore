@@ -1,0 +1,4 @@
+# git ignore note 
+   
+*.o	# ignore suffix o
+*.exe 	# ignore suffix exe
